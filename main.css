@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+  
+}
+html{
+    height: 100%;
+}
